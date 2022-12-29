@@ -1242,7 +1242,8 @@
               "ChangePlan",
               "ChangeQuantity",
               "Suspend",
-              "Reinstate"
+              "Reinstate",
+              "Renew"
             ],
             "x-ms-enum": {
               "name": "OperationActionEnum",
